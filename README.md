@@ -319,4 +319,3 @@ docs/                      USE_CASE.md (business strategy), TRANSCRIPTS.md (real
 *Development note: I used an AI coding assistant to help scaffold parts of this project. I reviewed, ran and tested all of it, and I can walk through every design decision.*
 
 
-this is the repo 
